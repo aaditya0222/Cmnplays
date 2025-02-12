@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I am passionate about coding, technology, and cont
 
 ## 📘 Learning Resources
 - [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Huxn](https://www.youtube.com/@huxn)
+- [Huxn](https://www.youtube.com/@huxnwebdev/)
 - [Chai Aur Code](https://www.youtube.com/@chaiaurcode)
 - [Sherians Coding School](https://www.youtube.com/@SheriansCodingSchool)
 - [Code with Harry](https://www.youtube.com/@CodeWithHarry)
