@@ -15,10 +15,10 @@ Welcome to my GitHub profile. I am passionate about coding, technology, and cont
 - 🎓 I am currently a high school student (studying in class 11/12).
 
 ## 📘 Learning Resources
-- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
 - [Huxn](https://www.youtube.com/@huxnwebdev/)
 - [Chai Aur Code](https://www.youtube.com/@chaiaurcode)
-- [Sherians Coding School](https://www.youtube.com/@SheriansCodingSchool)
+- [Sherians Coding School]([https://www.youtube.com/@Sherians)
 - [Code with Harry](https://www.youtube.com/@CodeWithHarry)
 
 ## 🛠️ Languages and Tools
