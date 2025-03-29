@@ -1,7 +1,4 @@
 # Hi there, I'm Cmnplays! 👋
-
-![Profile Banner](https://your-banner-url.com/banner.png)
-
 Welcome to my GitHub profile. I am passionate about coding, technology, and continuous learning. Here’s a bit about me:
 
 ## 🚀 About Me
