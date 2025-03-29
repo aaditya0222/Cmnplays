@@ -30,7 +30,7 @@ Welcome to my GitHub profile. I am passionate about coding, technology, and cont
 ![Cmnplays's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cmnplays&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cmnplays&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauraisyarita10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaurasiyarita20@gmail.com)
 
 ## 📂 Featured Repositories
 - [Project 1](https://github.com/Cmnplays/project1)
