@@ -30,8 +30,8 @@ Welcome to my GitHub profile. I am passionate about coding, technology, and cont
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaurasiyarita20@gmail.com)
 
 ## 📂 Featured Repositories
-- [Project 1](https://github.com/Cmnplays/project1)
-- [Project 2](https://github.com/Cmnplays/project2)
+- [Project 1](https://github.com/Cmnplays/WebMusicVaultFrontend)
+- [Project 2](https://github.com/Cmnplays/WebMusicVaultBackend)
 - [Project 3](https://github.com/Cmnplays/project3)
 
 ## 🎮 Gaming
