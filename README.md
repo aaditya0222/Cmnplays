@@ -1,4 +1,4 @@
-# Hi there, I'm Cmnplays! 👋
+# Hi there, I'm Aaditya! 👋
 Welcome to my GitHub profile. I am passionate about coding, technology, and continuous learning. Here’s a bit about me:
 
 ## 🚀 About Me
